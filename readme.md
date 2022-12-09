@@ -2,15 +2,15 @@
 
 ## 1-) Anasayfa
 
-![cssodevanasayfa.PNG](https://github.com/Cavga1903/cssodev1/src/cssodev1anasayfa.PNG)
+![cssodevanasayfa.PNG](https://github.com/Cavga1903/cssodev1/blob/master/src/cssodevanasayfa.png)
 
 ## 2-) Ürünlerimiz
 
-![cssodevhakkimizda.PNG](https://github.com/Cavga1903/cssodev1/src/cssodev1urunlerimiz.PNG)
+![cssodevhakkimizda.PNG](https://github.com/Cavga1903/cssodev1/blob/master/src/cssodevhakkimizda.png)
 
 ## 3-) Hakkımızda
 
-![cssodevurunlerimiz.PNG](https://github.com/Cavga1903/cssodev1/src/cssodev1hakkimizda.PNG)
+![cssodevurunlerimiz.PNG](https://github.com/Cavga1903/cssodev1/blob/master/src/cssodevurunlerimiz.png)
 
 ## 4-) Kaynaklar
 
