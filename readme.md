@@ -6,11 +6,11 @@
 
 ## 2-) Ürünlerimiz
 
-![cssodevhakkimizda.PNG](https://github.com/Cavga1903/cssodev1/blob/master/src/cssodevhakkimizda.png)
+![cssodevhakkimizda.PNG](https://github.com/Cavga1903/cssodev1/blob/master/src/cssodevurunlerimiz.png)
 
 ## 3-) Hakkımızda
 
-![cssodevurunlerimiz.PNG](https://github.com/Cavga1903/cssodev1/blob/master/src/cssodevurunlerimiz.png)
+![cssodevurunlerimiz.PNG](https://github.com/Cavga1903/cssodev1/blob/master/src/cssodevhakkimizda.png)
 
 ## 4-) Kaynaklar
 
