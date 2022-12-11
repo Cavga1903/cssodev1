@@ -29,6 +29,11 @@ h2 {
 
 li a:hover {
     background-color: rgb(143, 16, 16);
+    color: #ddd;
+}
+
+li a {
+    text-decoration: none;
 }
 
 
